@@ -1,0 +1,8 @@
+#!/bin/bash
+
+DISPLAY=":0"
+VIDEOS_DIRECTORY="/home/esteban/owned"
+VIDEO_LENGTH=40
+BLOCKING_TIME=30
+DEVICES="15 12 11 10 14"
+
